@@ -11,7 +11,7 @@ run_input = {
     "F1",
     "f1",
     "FORMULA1"
-  ],
+  ], #Finds these terms in Hashtags, usernames, tweet bodies, 
     "searchMode": "",
     "mode": "replies",
     "tweetsDesired": 1000,
