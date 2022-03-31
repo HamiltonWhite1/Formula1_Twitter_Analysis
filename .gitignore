@@ -1,0 +1,5 @@
+*venv
+*DataSets
+*Cleaned_Sets
+*.ipynb_checkpoints
+.DS_Store
